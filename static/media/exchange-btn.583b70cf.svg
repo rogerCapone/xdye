@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="56" viewBox="0 0 300 56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="300" height="56" rx="10" transform="translate(260 635)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-260 -635)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="300" height="56" rx="10" transform="translate(260 635)" fill="#AFE8F2"/>
+    <text id="Swap_Exchange" data-name="Swap/Exchange" transform="translate(410 619)" fill="#fff" font-size="18" font-family="Nunito-SemiBold, Nunito" font-weight="600"><tspan x="-65.484" y="0">Swap/Exchange</tspan></text>
+    <path id="fi-rr-lock-alt" d="M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm0,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22ZM12,7a2.993,2.993,0,0,0-1,5.816V16a1,1,0,0,0,2,0V12.816A2.993,2.993,0,0,0,12,7Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,12,11Z" transform="translate(398 651)" fill="#fff"/>
+  </g>
+</svg>

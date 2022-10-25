@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="12.004" viewBox="0 0 24 12.004">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8df00"/>
+      <stop offset="1" stop-color="#60df00"/>
+    </linearGradient>
+  </defs>
+  <path id="fi-rr-pulse" d="M28,11a1.5,1.5,0,0,1-1.5,1.5H22.052L19.5,16.334A1.5,1.5,0,0,1,18.25,17h-.093a1.5,1.5,0,0,1-1.25-.826L13.564,9.483,12,11.834a1.5,1.5,0,0,1-1.248.667H5.5a1.5,1.5,0,1,1,0-3H9.948L12.5,5.669A1.48,1.48,0,0,1,13.843,5a1.5,1.5,0,0,1,1.25.826l3.344,6.689L20,10.166A1.5,1.5,0,0,1,21.25,9.5H26.5A1.5,1.5,0,0,1,28,11Z" transform="translate(-4 -4.997)" fill="#42b9ce"/>
+</svg>

@@ -1,0 +1,15 @@
+//! AQUI [0] -->
+
+//! AQUI [3] --> LMD ((XDYE Token))
+
+//! Calculate PoolShare
+
+//! Calculate expected Liquididity
+
+//! Check Amount Staked
+
+//! Fetch Reserves y mirar quan ha de ficar del altre en el VALUE_1
+
+//! Get token Blockchain Data
+
+//!!!!! CHECK IF PAIR EXISTS (en base a aixo SURT LA FORMULA)
